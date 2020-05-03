@@ -14,17 +14,17 @@ int main()
         {
             printf("Sorry the answer is wrong\n");
             right=0;
-            for(chance=0; chance<3&&!right; chance++)
+            for(chance=0; chance<3&&right==0; chance++)
             {
                 printf("what is %d + %d\n",count,count);
                 scanf("%d",&answer);
                 if(answer==count+count)
                 {
                     printf("Right");
-                    right++;
+                    right=1;
                 }
             }
-            if(!right)
+            if(right==0)
             {
                 printf("The answer is %d",count+count);
             }
