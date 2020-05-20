@@ -9,4 +9,4 @@
 7) Hailstone Sequence(https://github.com/sowmenMITRA/Happy_CodinG/blob/master/Hailstone%20Sequence.c)
 8) Nested Structure(https://github.com/sowmenMITRA/Happy_CodinG/blob/master/Nested%20Structure.c)
 9) Permutation of String(https://github.com/sowmenMITRA/Happy_CodinG/blob/master/Permutation%20of%20%20String.c)
-10)Pointer to structure(https://github.com/sowmenMITRA/Happy_CodinG/blob/master/Pointer%20to%20structure.c)
+10 Pointer to structure(https://github.com/sowmenMITRA/Happy_CodinG/blob/master/Pointer%20to%20structure.c)
