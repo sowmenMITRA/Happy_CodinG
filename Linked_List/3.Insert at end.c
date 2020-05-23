@@ -8,7 +8,7 @@ struct node
 }*head;
 void CreatNodeList(int n);
 void PrintData();
-void InsertBeginning(int data);
+void InsertEnd(int data);
 
 int main()
 {
